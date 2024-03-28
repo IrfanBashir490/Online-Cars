@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /used
+Allow: /car-details
+Allow: /about
+Allow: /blog
+Allow: /error
+Allow: /privacy-police
+Allow: /contact-us
+Disallow: /coming-soon
+Sitemap: https://manojsahu.ml/sitemap.xml
